@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinKMDLoader", "WinKMDLoader\WinKMDLoader.csproj", "{EE67B027-8DB7-448F-B3B4-D3514623DF0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE67B027-8DB7-448F-B3B4-D3514623DF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE67B027-8DB7-448F-B3B4-D3514623DF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE67B027-8DB7-448F-B3B4-D3514623DF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE67B027-8DB7-448F-B3B4-D3514623DF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92306075-177C-4D56-8ED5-C31986241B34}
+	EndGlobalSection
+EndGlobal
